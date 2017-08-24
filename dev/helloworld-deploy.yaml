@@ -1,17 +1,17 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: helloworld
+  name: helloworld1
 spec:
   minReadySeconds: 5
   replicas: 2
   template:
     metadata:
       labels:
-        name: helloworld
+        name: helloworld1
     spec:
       containers:
-      - name: helloworld
+      - name: helloworld1
         image: quay.io/weaveworks/helloworld:master-9a16ff945b9e
         args:
         - -msg=GOODDAY4
