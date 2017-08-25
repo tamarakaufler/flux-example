@@ -14,7 +14,7 @@ spec:
       - name: helloworld2
         image: quay.io/weaveworks/helloworld:master-9a16ff945b9e
         args:
-        - -msg=GoodDay6
+        - -msg=GoodDay7
         ports:
         - containerPort: 80
       - name: sidecar
