@@ -1,0 +1,1 @@
+{"jobID":"f634cca4-c980-b052-170d-8aee80d30aa3","spec":{"type":"policy","cause":{"Message":"","User":"beruska"},"spec":{"default/helloworld1":{"add":null,"remove":{"locked":"true"}}}},"result":null}
