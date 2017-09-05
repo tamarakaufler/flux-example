@@ -1,0 +1,1 @@
+{"jobID":"25e2ea4d-e11f-5305-2aad-19cd07a0efef","spec":{"type":"policy","cause":{"Message":"","User":"tamara"},"spec":{"default/helloworld1":{"add":{"locked":"true"},"remove":null}}},"result":null}
