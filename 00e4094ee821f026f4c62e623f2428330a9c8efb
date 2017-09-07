@@ -1,0 +1,1 @@
+{"jobID":"6aa43acd-62ee-b665-65ea-86b1b0695d3b","spec":{"type":"policy","cause":{"Message":"","User":"anonym \u003canonym\u003e"},"spec":{"default/helloworld":{"add":{"locked":"true","locked_user":"anonym \u003canonym\u003e"},"remove":null}}},"result":null}
