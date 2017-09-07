@@ -3,7 +3,6 @@ kind: Deployment
 metadata:
   name: helloworld
   annotations:
-    flux.weave.works/automated: "true"
     flux.weave.works/locked_user: jane jane@doe
 spec:
   minReadySeconds: 5
