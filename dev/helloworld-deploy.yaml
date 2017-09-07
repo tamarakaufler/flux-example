@@ -3,7 +3,8 @@ kind: Deployment
 metadata:
   name: helloworld
   annotations:
-    flux.weave.works/locked_user: jane jane@doe
+    flux.weave.works/locked: "true"
+    flux.weave.works/locked_user: tamara
 spec:
   minReadySeconds: 5
   replicas: 2
