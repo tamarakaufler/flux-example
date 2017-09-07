@@ -1,0 +1,1 @@
+{"jobID":"d13360de-9e5f-563a-d1c9-d196861a2e8e","spec":{"type":"policy","cause":{"Message":"","User":"michael@weave.works"},"spec":{"default/helloworld":{"add":{"locked":"true","locked_user":"michael@weave.works"},"remove":null}}},"result":null}
