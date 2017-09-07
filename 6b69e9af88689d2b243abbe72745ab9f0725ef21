@@ -1,0 +1,1 @@
+{"jobID":"722de0e4-f3e9-f38c-f014-01b5a5a0bb89","spec":{"type":"policy","cause":{"Message":"","User":"test \u003canonym@test.cz\u003e"},"spec":{"default/helloworld":{"add":{"locked":"true","locked_user":"test \u003canonym@test.cz\u003e"},"remove":null}}},"result":null}
