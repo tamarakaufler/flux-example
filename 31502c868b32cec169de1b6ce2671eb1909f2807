@@ -1,0 +1,1 @@
+{"jobID":"720df260-4e6a-f102-a104-59bbb504d0d9","spec":{"type":"policy","cause":{"Message":"","User":"Brichael Midgen"},"spec":{"default/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"","locked_user":""}}}},"result":null}
