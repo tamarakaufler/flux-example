@@ -1,0 +1,1 @@
+{"jobID":"41fceef1-5405-04ba-ecdd-a28ba0ba6d76","spec":{"type":"policy","cause":{"Message":"","User":"ABC  \u003ctkaufler@gmail.com\u003e"},"spec":{"default/helloworld":{"add":{"locked":"true","locked_user":"ABC  \u003ctkaufler@gmail.com\u003e"},"remove":null}}},"result":null}
