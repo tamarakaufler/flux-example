@@ -1,0 +1,1 @@
+{"jobID":"ef4762a5-16cf-e52f-0d02-fdcd3586805f","spec":{"type":"policy","cause":{"Message":"","User":"tamarakaufler \u003ctkaufler@gmail.com\u003e"},"spec":{"default/helloworld":{"add":{"locked":"true","locked_user":"tamarakaufler \u003ctkaufler@gmail.com\u003e"},"remove":null}}},"result":null}
