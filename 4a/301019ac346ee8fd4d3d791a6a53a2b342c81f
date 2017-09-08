@@ -1,0 +1,1 @@
+{"jobID":"dadf01b5-b77c-4d7c-ff3e-0a2d5ccaa8c0","spec":{"type":"policy","cause":{"Message":"","User":"tamarakaufler \u003cmichael@weave.works\u003e"},"spec":{"default/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"","locked_user":""}}}},"result":null}
