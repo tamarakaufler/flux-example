@@ -1,0 +1,1 @@
+{"jobID":"e036c239-d000-7cf2-a7c8-d5a0dd4ef947","spec":{"type":"policy","cause":{"Message":"","User":"squaremo \u003ctkaufler@gmail.com\u003e"},"spec":{"default/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"","locked_user":""}}}},"result":null}
