@@ -1,0 +1,1 @@
+{"jobID":"03cb1869-2231-46d7-6752-c204b8676403","spec":{"type":"policy","cause":{"Message":"","User":"Brigitte Bardot"},"spec":{"default/helloworld":{"add":{"locked":"true","locked_user":"Brigitte Bardot"},"remove":null}}},"result":null}
