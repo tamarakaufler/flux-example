@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   annotations:
     flux.weave.works/locked: "true"
-    flux.weave.works/locked_user: Brichael Midgen <michael@weave.cz>
+    flux.weave.works/locked_user: Brigitte Bardot
   name: helloworld
 spec:
   minReadySeconds: 5
