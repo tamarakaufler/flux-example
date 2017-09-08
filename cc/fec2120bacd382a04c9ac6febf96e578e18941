@@ -1,0 +1,1 @@
+{"jobID":"a51955f8-0ab4-9f78-b177-285075b51d3f","spec":{"type":"policy","cause":{"Message":"","User":"tamarakaufler"},"spec":{"default/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"","locked_user":""}}}},"result":null}
