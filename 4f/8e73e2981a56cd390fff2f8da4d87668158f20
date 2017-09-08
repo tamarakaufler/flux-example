@@ -1,0 +1,1 @@
+{"jobID":"3bbd4e99-9f7f-46e6-bece-40c527a92898","spec":{"type":"policy","cause":{"Message":"","User":"Brigitte Bardot \u003ctamara@weave.works\u003e"},"spec":{"default/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"","locked_user":""}}}},"result":null}
