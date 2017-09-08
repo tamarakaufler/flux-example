@@ -1,0 +1,1 @@
+{"jobID":"057e9b96-bac4-9d57-e013-41448cf36850","spec":{"type":"policy","cause":{"Message":"","User":"Michael Bridgen"},"spec":{"default/helloworld":{"add":{"locked":"true","locked_user":"Michael Bridgen"},"remove":null}}},"result":null}
