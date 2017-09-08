@@ -1,0 +1,1 @@
+{"jobID":"539f7a30-2853-01db-5dfa-ee111806c998","spec":{"type":"policy","cause":{"Message":"","User":"Brigitte Bardot \u003c \u003e"},"spec":{"default/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"","locked_user":""}}}},"result":null}
