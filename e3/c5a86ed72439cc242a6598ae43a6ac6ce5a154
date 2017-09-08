@@ -1,0 +1,1 @@
+{"jobID":"bf6ec888-e52f-3b97-277d-85c513a15d97","spec":{"type":"policy","cause":{"Message":"","User":"Tamara Kaufler \u003ctamara@kaufler\u003e"},"spec":{"default/helloworld":{"add":{"locked":"true","locked_user":"Tamara Kaufler \u003ctamara@kaufler\u003e"},"remove":null}}},"result":null}
