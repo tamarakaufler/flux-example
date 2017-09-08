@@ -1,0 +1,1 @@
+{"jobID":"05b29152-c6ca-8875-f427-fe5d73a6fca3","spec":{"type":"policy","cause":{"Message":"","User":"Michael Bridgen \u003ctkaufler@gmail.com\u003e"},"spec":{"default/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"","locked_user":""}}}},"result":null}
