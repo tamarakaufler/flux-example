@@ -1,0 +1,1 @@
+{"jobID":"0b04565f-8510-6724-e38c-6835d7fb09c9","spec":{"type":"policy","cause":{"Message":"","User":"Tamara Kaufler \u003ctamara@weave.works\u003e"},"spec":{"default/helloworld":{"add":{"locked":"true","locked_user":"Tamara Kaufler \u003ctamara@weave.works\u003e"},"remove":null}}},"result":null}
