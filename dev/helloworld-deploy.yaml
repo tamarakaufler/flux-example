@@ -1,9 +1,6 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  annotations:
-    flux.weave.works/locked: "true"
-    flux.weave.works/locked_user: blah <blah@b.b>
   name: helloworld
 spec:
   minReadySeconds: 5
