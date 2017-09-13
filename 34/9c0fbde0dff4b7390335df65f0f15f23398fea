@@ -1,0 +1,1 @@
+{"jobID":"dd122b7a-2b5e-f447-c38a-83112a3e0355","spec":{"type":"policy","cause":{"Message":"","User":"anonym"},"spec":{"default/helloworld":{"add":{"locked":"true","locked_user":"anonym"},"remove":null}}},"result":null}
