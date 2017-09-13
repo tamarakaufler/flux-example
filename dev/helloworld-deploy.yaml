@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   annotations:
     flux.weave.works/locked: "true"
-    flux.weave.works/locked_user: Michael Bridgen
+    flux.weave.works/locked_user: Tamara Kaufler
   name: helloworld
 spec:
   minReadySeconds: 5
