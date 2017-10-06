@@ -1,9 +1,10 @@
-apiVersion: extensions/v1beta1
+apiVersion: apps/v1beta2
 kind: Deployment
 metadata:
   annotations:
     flux.weave.works/locked_user: Tamara Kaufler
   name: helloworld
+  namespace: tamara
 spec:
   minReadySeconds: 5
   replicas: 2
