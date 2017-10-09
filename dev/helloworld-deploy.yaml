@@ -4,7 +4,7 @@ metadata:
   annotations:
     flux.weave.works/locked_user: Tamara Kaufler
   name: helloworld
-  namespace: lucien2
+  namespace: tamara3
 spec:
   minReadySeconds: 5
   replicas: 2
