@@ -1,0 +1,28 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  annotations:
+    flux.weave.works/locked_user: Tamara Kaufler
+  name: byeworld
+  namespace: lucien
+spec:
+  minReadySeconds: 5
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        name: byeworld
+    spec:
+      containers:
+      - name: byeworld
+        image: quay.io/weaveworks/helloworld:master-9a16ff945b9e
+        args:
+        - -msg=GOODDAY14
+        ports:
+        - containerPort: 80
+      - name: sidecar
+        image: quay.io/weaveworks/sidecar:master-a000002
+        args:
+        - -addr=:8080
+        ports:
+        - containerPort: 8080
