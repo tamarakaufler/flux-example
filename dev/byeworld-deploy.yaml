@@ -1,20 +1,18 @@
 apiVersion: apps/v1beta1
 kind: Deployment
 metadata:
-  annotations:
-    flux.weave.works/locked_user: Tamara Kaufler
-  name: byeworld
-  namespace: lucien1
+  name: byeworld11
+  namespace: lucien11
 spec:
   minReadySeconds: 5
   replicas: 2
   template:
     metadata:
       labels:
-        name: byeworld
+        name: byeworld11
     spec:
       containers:
-      - name: byeworld
+      - name: byeworld11
         image: quay.io/weaveworks/helloworld:master-9a16ff945b9e
         args:
         - -msg=GOODDAY14
